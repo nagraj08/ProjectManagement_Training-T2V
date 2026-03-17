@@ -1,0 +1,24 @@
+PM COMMUNICATION VIDEO — MUSIC PROMPTS REFERENCE
+Use these prompts on Suno.ai or Udio.com
+═══════════════════════════════════════════
+
+Scene 1 [0:00 - 1:15]: The WhatsApp Trap
+BGM Prompt : Fast-paced slightly stressful electronic pulse that drops into a solid rhythmic beat, urgent opening that resolves into confident professionalism, corporate thriller to steady business feel
+BGM File   : scene1_bgm.mp3
+
+Scene 2 [1:15 - 2:30]: The Coordinated Team
+BGM Prompt : Steady optimistic and highly rhythmic corporate modern beat, synchronized and efficient feel, well-oiled machine energy, confident collaborative tempo
+BGM File   : scene2_bgm.mp3
+
+Scene 3 [2:30 - 4:00]: Escalation Without Fear
+BGM Prompt : Minimalist and thoughtful single piano instrument creating a reflective introspective mood, quiet and contemplative, weight of silence and missed opportunity, slow deliberate notes
+BGM File   : scene3_bgm.mp3
+
+Scene 4 [4:00 - 5:00]: The Art of the Requirement
+BGM Prompt : Warm lightbulb moment acoustic-electronic hybrid, intelligent and bright feel, discovery and insight tone, curious and optimistic energy, gentle uplifting melody
+BGM File   : scene4_bgm.mp3
+
+Scene 5 [5:00 - 5:45]: Conclusion and Call to Action
+BGM Prompt : Inspirational and grand resolution, full orchestral synth crescendo, powerful uplifting finale, sense of professional achievement and team unity, memorable corporate inspirational closing score
+BGM File   : scene5_bgm.mp3
+

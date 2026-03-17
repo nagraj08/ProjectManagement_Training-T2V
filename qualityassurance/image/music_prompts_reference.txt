@@ -1,0 +1,24 @@
+QUALITY ASSURANCE VIDEO — MUSIC PROMPTS REFERENCE
+Use these prompts on Suno.ai or Udio.com
+═══════════════════════════════════════════
+
+Scene 1 [0:00 - 1:15]: The Visceral Cost of Shortcuts
+BGM Prompt : Low tense orchestral strings building intensity, sounds of digital glitch effects that resolve into a heavy driving beat, dramatic tension, cinematic thriller feel
+BGM File   : scene1_bgm.mp3
+
+Scene 2 [1:15 - 2:30]: The Integrated Model
+BGM Prompt : Clean rhythmic and building electronic pulse representing a well-oiled machine, steady confident beat, methodical and organized feel, moderate upbeat corporate tempo
+BGM File   : scene2_bgm.mp3
+
+Scene 3 [2:30 - 4:00]: The Five Non Negotiables
+BGM Prompt : Authoritative and steady percussive and clear beat, commanding corporate rhythm, confident and non-negotiable feel, strong methodical pulse
+BGM File   : scene3_bgm.mp3
+
+Scene 4 [4:00 - 5:00]: The Pressure Response
+BGM Prompt : Thoughtful diplomatic yet firm piano and synth blend, measured and professional tone, calm confidence under pressure, steady resolution building
+BGM File   : scene4_bgm.mp3
+
+Scene 5 [5:00 - 5:45]: Conclusion and Summary
+BGM Prompt : Grand cinematic and triumphant resolution, full orchestral synth crescendo, sense of achievement and professional pride, powerful uplifting finale, inspirational corporate score
+BGM File   : scene5_bgm.mp3
+

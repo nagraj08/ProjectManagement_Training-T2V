@@ -1,0 +1,6 @@
+
+*.mp4
+*/final/
+videos/
+bin/
+obj/

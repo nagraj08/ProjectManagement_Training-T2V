@@ -1,0 +1,19 @@
+RISK MANAGEMENT VIDEO — MUSIC PROMPTS REFERENCE
+Use these prompts on Suno.ai or Udio.com
+═══════════════════════════════════════════
+
+Scene 1 [0:00 - 1:00]: The Mindset Shift
+BGM Prompt: Deep rhythmic synth with a sense of anticipation, building tension, dark atmospheric undertones, professional corporate feel, slow pulsing bass
+
+Scene 2 [1:00 - 2:30]: The Architecture of Register
+BGM Prompt: Clean steady analytical pulse, minimalist electronic beat, focused and methodical rhythm, corporate presentation feel, moderate tempo
+
+Scene 3 [2:30 - 3:30]: The Matrix and Banking Case
+BGM Prompt: Slightly faster tempo focused and math-heavy feel, sharp precise electronic beats, analytical tension, data driven energy, clean synth tones
+
+Scene 4 [3:30 - 5:00]: Industry Specifics
+BGM Prompt: Varied musical textures transitioning between scenes, slick smooth jazz-influenced synth for banking, steady confident pulse for insurance, industrial rhythmic beat for manufacturing, professional documentary score
+
+Scene 5 [5:00 - 6:00]: The Ritual and Conclusion
+BGM Prompt: Inspirational cinematic resolution, uplifting orchestral synth blend, sense of accomplishment and forward momentum, crescendo towards the end, professional documentary finale feel
+

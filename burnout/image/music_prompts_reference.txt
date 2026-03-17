@@ -1,0 +1,24 @@
+BURNOUT PREVENTION VIDEO — MUSIC PROMPTS REFERENCE
+Use these prompts on Suno.ai or Udio.com
+═══════════════════════════════════════════
+
+Scene 1 [0:00 - 1:00]: The Accountability Pivot
+BGM Prompt : Somber low-frequency synth that slowly builds into a steady rhythmic heartbeat pulse, dark atmospheric opening, gradually intensifying
+BGM File   : scene1_bgm.mp3
+
+Scene 2 [1:00 - 2:00]: The Cause Chain
+BGM Prompt : Ticking clock sound layered over a driving urgent bassline, building tension and urgency, mechanical rhythmic pulse, corporate thriller feel
+BGM File   : scene2_bgm.mp3
+
+Scene 3 [2:00 - 3:30]: The 80 Percent Rule and Board
+BGM Prompt : Lighter more efficient and rhythmic corporate tech track, steady confident beat, productive and organized feel, moderate upbeat tempo
+BGM File   : scene3_bgm.mp3
+
+Scene 4 [3:30 - 4:30]: The Retrospective and Trigger
+BGM Prompt : Warm conversational and open acoustic-electronic hybrid, collaborative and thoughtful tone, human and approachable feel, gentle steady rhythm
+BGM File   : scene4_bgm.mp3
+
+Scene 5 [4:30 - 5:30]: Early Warning Signals
+BGM Prompt : Inspiring thoughtful and confident resolution, warm orchestral synth blend, sense of hope and empowerment, uplifting crescendo towards end, professional documentary finale
+BGM File   : scene5_bgm.mp3
+

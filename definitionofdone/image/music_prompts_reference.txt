@@ -1,0 +1,24 @@
+DEFINITION OF DONE VIDEO — MUSIC PROMPTS REFERENCE
+Use these prompts on Suno.ai or Udio.com
+═══════════════════════════════════════════
+
+Scene 1 [0:00 - 1:10]: The Experiment
+BGM Prompt : Low mysterious ambient pad with a light percussive clack sound like a typewriter, subtle tension building, enigmatic and thought-provoking feel, soft rhythmic tapping
+BGM File   : scene1_bgm.mp3
+
+Scene 2 [1:10 - 2:40]: The Four Levels of Done
+BGM Prompt : Upbeat methodical and rhythmic progressing in complexity, each level adds a new musical layer building from simple to full orchestration, structured and confident corporate tempo
+BGM File   : scene2_bgm.mp3
+
+Scene 3 [2:40 - 4:00]: The Conflict Prevention Case Study
+BGM Prompt : Two-tone contrasting music: left chaos side plays dissonant chaotic strings with urgent alarm undertones, right definition side plays harmonious steady organized rhythm, the two sides contrast clearly before harmonious side takes over
+BGM File   : scene3_bgm.mp3
+
+Scene 4 [4:00 - 5:00]: Three Tips for Sticking to It
+BGM Prompt : Powerful driving and encouraging beat, building momentum with each tip, energetic and motivating corporate rhythm, confident and assertive tone throughout
+BGM File   : scene4_bgm.mp3
+
+Scene 5 [5:00 - 5:45]: Final Call to Action
+BGM Prompt : Grand triumphant and resolute orchestral finish, full cinematic crescendo, sense of professional achievement and excellence, powerful inspiring finale, memorable closing score
+BGM File   : scene5_bgm.mp3
+

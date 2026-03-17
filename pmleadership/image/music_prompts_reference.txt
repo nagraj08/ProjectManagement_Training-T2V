@@ -1,0 +1,26 @@
+PM LEADERSHIP VIDEO — MUSIC PROMPTS REFERENCE
+Use these prompts on Suno.ai or Udio.com
+Lyria prompt: 30-second track, corporate-modern, inspiring, confident tempo,
+subtle synth pads with a driving percussive beat, high-fidelity
+═══════════════════════════════════════════
+
+Scene 1 [0:00 - 1:15]: Leading Without Authority
+BGM Prompt : Deep resonant cello or slow rhythmic bass beat, weighty and grounded feel, sense of responsibility and gravity, low frequency orchestral undertones
+BGM File   : scene1_bgm.mp3
+
+Scene 2 [1:15 - 2:30]: Managing the Multi Project Load
+BGM Prompt : Rhythmic ticking tempo that feels urgent but controlled, measured clock-like beat, strategic tension with underlying confidence, corporate thriller feel
+BGM File   : scene2_bgm.mp3
+
+Scene 3 [2:30 - 4:00]: The Ownership Mindset
+BGM Prompt : Atmospheric and cinematic slow build-up creating a sense of integrity and moral weight, deep sustained strings, rising sense of professional responsibility, thoughtful and serious tone
+BGM File   : scene3_bgm.mp3
+
+Scene 4 [4:00 - 5:00]: Accountability to Management
+BGM Prompt : Slick professional corporate electronic music, confident and transparent feel, steady authoritative beat, modern business executive tone
+BGM File   : scene4_bgm.mp3
+
+Scene 5 [5:00 - 5:45]: Final Reflection and Summary
+BGM Prompt : Grand inspiring and triumphant resolution, full orchestral crescendo, sense of achievement and human leadership, powerful uplifting finale, memorable corporate inspirational score
+BGM File   : scene5_bgm.mp3
+

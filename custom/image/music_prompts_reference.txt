@@ -1,0 +1,9 @@
+ELECTROAI — MUSIC PROMPTS REFERENCE
+Use these prompts with any AI music generator
+(e.g. Suno.ai, Udio.com, MusicGen)
+
+═══════════════════════════════════════
+
+Scene 1 [0:00 - 1:00]: The_Mindset_Shift
+Music: Deep rhythmic synth with a sense of anticipation, building tension, dark atmospheric undertones, professional corporate feel
+
