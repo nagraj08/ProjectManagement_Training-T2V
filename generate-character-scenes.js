@@ -10,7 +10,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const API_KEY = "sk-8416cebc565f4a29859985e269834580";
+const API_KEY = "Use_YourAPI_Key_Here";
 
 // API endpoints
 const T2I_URL = "https://dashscope-intl.aliyuncs.com/api/v1/services/aigc/text2image/image-synthesis";
